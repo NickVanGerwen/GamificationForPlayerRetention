@@ -34,6 +34,7 @@ Habit
 If a usage habit is created, the user will return to the app whenever it is deemed necessary by the user. For example, an app which processes expenses will be opened whenever the user receives a receipt they want to scan. 
 
 ### Scientific models
+Scientific models can be used to describe the thought process of returning players. Using them to analyse games may shine a light on what obstacles players need to overcome to play your games, allowing you to address them by streamlining UI, adding new features, or adapt to you playerbase in other ways.
 
 #### The hook model
 This model, conceived by Nir Eyal, describes a loop that consists of four components: Trigger, Action, Variable Reward, and Investment. If this loop is implemented effectively it should drive retention by converting users to retained users.
@@ -42,8 +43,8 @@ This model, conceived by Nir Eyal, describes a loop that consists of four compon
 - Variable Reward: Keeps users engaged with unpredictable rewards
 - Investment: User's time or effort
 
-example of The Hook model;
-A group of friends gather and want to play a game(trigger). First, they install and open Gossip(action). Second, they play a game with randomly selected statements, leading to unpredictable discussions, comparisons, and imaginative scenario's(variable reward). After the game, they all have the game installed, understand how it works, and invested their time, making it easier for them to return to the game in the future(investment) 
+Example of the Hook model;
+A group of friends gather and want to play a game(trigger). First, they install and open Gossip(action). Second, they play a game with randomly selected statements, leading to unpredictable discussions, comparisons, and imaginative scenario's(variable reward). After the game, they all have the game installed, understand how it works, and invested their time, making it easier for them to return to the game in the future(investment).
 
 #### The Fogg Behaviour Model
 This model, by B.J. Fogg, states that for a behaviour to happen, three factors must align: 
@@ -53,4 +54,5 @@ This model, by B.J. Fogg, states that for a behaviour to happen, three factors m
 
 Triggers are most effective when both motivation and ability are high.
 
+Example of the Fogg behaviour model
 
