@@ -5,7 +5,7 @@ A central hub for the learning from Nick van Gerwen's research project into gamf
 
 
 ## Player Retention
-User retention is a key metric and benchmark in game development. It is measured by looking at first time users and calculating the percentage of users that return to your app within a defined timespan. 
+Player(or user) retention is a key metric and benchmark in game development. It is measured by looking at first time users and calculating the percentage of users that return to your app within a defined timespan. 
 
 ### Metrics
 While there are many ways retention can be measured and used, in the mobile market the most common use case is measuring the amount of new users returning after day 1, 3, 7, 14, 30, and 180.
@@ -20,7 +20,7 @@ The basic process of determining player retention is done through these four ste
 3. Measure the amount of these users that returned at the end of the time period
 4. Divide the amount of new users by the amount of users that returned
 
-### Influencing user retention
+### Influencing User retention
 
 According to [Pendo.io](https://www.pendo.io/glossary/user-retention/), user retention can be increased by turning your new users into retained users, this is done in three phases;
 
@@ -33,5 +33,25 @@ Users should see the value of the app within the first session. Guide them throu
 Habit
 If a usage habit is created, the user will return to the app whenever it is deemed necessary by the user. For example, an app which processes expenses will be opened whenever the user receives a receipt they want to scan. 
 
+### Scientific models
+There are many scientific models 
+
+#### The hook model
+This model, conceived by Nir Eyal, describes a loop that consists of four components: Trigger, Action, Variable Reward, and Investment. If this loop is implemented effectively it should drive retention by converting users to retained users.
+- Trigger: Initiates action
+- Action: The desired user response
+- Variable Reward: Keeps users engaged with unpredictable rewards
+- Investment: User's time or effort
+
+example of The Hook model;
+A group of friends gather and want to play a game(trigger). First, they install and open Gossip(action). Second, they play a game with randomly selected statements, leading to unpredictable discussions, comparisons, and imaginative scenario's(variable reward). After the game, they all have the game installed, understand how it works, and invested their time, making it easier for them to return to the game in the future(investment) 
+
+#### The Fogg Behaviour Model
+This model, by B.J. Fogg, states that for a behaviour to happen, three factors must align: 
+- Motivation, desire to act
+- Ability, ease of performing the action
+- Trigger, prompt the action
+
+Triggers are most effective when both motivation and ability are high.
 
 
