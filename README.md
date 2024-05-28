@@ -34,7 +34,6 @@ Habit
 If a usage habit is created, the user will return to the app whenever it is deemed necessary by the user. For example, an app which processes expenses will be opened whenever the user receives a receipt they want to scan. 
 
 ### Scientific models
-There are many scientific models 
 
 #### The hook model
 This model, conceived by Nir Eyal, describes a loop that consists of four components: Trigger, Action, Variable Reward, and Investment. If this loop is implemented effectively it should drive retention by converting users to retained users.
