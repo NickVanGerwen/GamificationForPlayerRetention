@@ -34,7 +34,7 @@ Habit
 If a usage habit is created, the user will return to the app whenever it is deemed necessary by the user. For example, an app which processes expenses will be opened whenever the user receives a receipt they want to scan. 
 
 ### Scientific models
-Scientific models can be used to describe the thought process of returning players. Using them to analyse games may shine a light on what obstacles players need to overcome to play your games, allowing you to address them by streamlining UI, adding new features, or adapt to you playerbase in other ways.
+Scientific models can be used to describe the thought process of returning players. Using them to analyse games may shine a light on what obstacles players need to overcome to play your games, allowing you to address them by streamlining UI, adding new features, or adapt to your playerbase in other ways.
 
 #### The hook model
 This model, conceived by Nir Eyal, describes a loop that consists of four components: Trigger, Action, Variable Reward, and Investment. If this loop is implemented effectively it should drive retention by converting users to retained users.
