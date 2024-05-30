@@ -25,12 +25,15 @@ The basic process of determining player retention is done through these four ste
 According to [Pendo.io](https://www.pendo.io/glossary/user-retention/), user retention can be increased by turning your new users into retained users, this is done in three phases;
 
 Onboarding
+
 New users should be able to use the key features of an app within the first session, this can be done using a well thought out onboarding experience. Onboarding is the process of guiding new users through the most important functionalities of the app so they can start using it immediately. 
 
 Activation
+
 Users should see the value of the app within the first session. Guide them through their first accomplishments to build momentum and motivate them to return.
 
 Habit
+
 If a usage habit is created, the user will return to the app whenever it is deemed necessary by the user. For example, an app which processes expenses will be opened whenever the user receives a receipt they want to scan. 
 
 ### Scientific models
