@@ -9,7 +9,7 @@ Player retention is a crucial metric and benchmark in game development. It is as
 [Player retention essentials](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/PlayerRetentionInfo.md)
 
 ### Analytics & Observations
-Before diving into potential solutions, it's essential to first grasp the current state of player retention within the mobile gaming market. This overview will include a focused examination of mobile party games and an in-depth look at Vanilla's specific retention metrics. By understanding the existing landscape, we can better identify opportunities for improvement and develop more effective strategies to enhance player engagement and longevity.
+Before exploring solutions, it's crucial to understand the current state of player retention in the mobile gaming market. This includes examining mobile party games and Vanilla's specific retention metrics. Understanding the landscape helps identify improvement opportunities and develop effective strategies to boost player retemtion.
 
 [Player Retention Analytics & Observations](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/PlayerRetentionAnalytics.md)
 
