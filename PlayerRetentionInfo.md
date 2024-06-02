@@ -1,11 +1,11 @@
-# Player Retemtion
+# Player retemtion
 Explore the essentials of player retention, including key metrics, calculation methods, influencing factors, and relevant scientific models.
 ## Metrics
 While there are many ways retention can be measured and used, in the mobile market the most common use case is measuring the amount of new users returning after day 1, 3, 7, 14, 30, and 180.
 
 This is also written as Dx, where x is the number of days since the user first used the app, ex: D1, D30
 
-## Calculating Retention
+## Calculating retention
 
 The basic process of determining player retention is done through these four steps;
 1. Decide on an appropriate time period
@@ -13,7 +13,7 @@ The basic process of determining player retention is done through these four ste
 3. Measure the amount of these users that returned at the end of the time period
 4. Divide the amount of new users by the amount of users that returned
 
-## Influencing User retention
+## Influencing user retention
 
 According to [Pendo.io](https://www.pendo.io/glossary/user-retention/), user retention can be increased by turning your new users into retained users, this is done in three phases;
 
@@ -36,7 +36,7 @@ This model, conceived by Nir Eyal, describes a loop that consists of four compon
 - Variable Reward: Keeps users engaged with unpredictable rewards
 - Investment: User's time or effort
 
-Example of the Hook model;
+#### Example of the Hook model
 A group of friends gather and want to play a game(trigger). First, they install and open Gossip(action). Second, they play a game with randomly selected statements, leading to unpredictable discussions, comparisons, and imaginative scenario's(variable reward). After the game, they all have the game installed, understand how it works, and invested their time, making it easier for them to return to the game in the future(investment).
 
 ### The Fogg Behaviour Model
