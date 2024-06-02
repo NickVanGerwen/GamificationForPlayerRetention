@@ -47,16 +47,16 @@ To organise the mechanics I make use of seven categories; temporal, social, prog
 
 ### Conclusion
 Using the observations I can formulate a list condensing Vanilla’s approach to gamification.
-Vanilla’s developers have experience with these mechanics;
+#### Vanilla’s developers have experience with these mechanics;
 - Points
 - Celebrating actions
 - Custom game modes
 - Content packs
-These mechanics have worked for Vanilla in the past, but not to their fullest potential;
+#### These mechanics have worked for Vanilla in the past, but not to their fullest potential;
 - Spinning wheel
 - Roles
 - Social prods
-And these areas are prime for improvement / exploration
+#### And these areas are prime for improvement / exploration
 - Progression
 - Highlighting luck-based mechanics
 - Temporal mechanics
