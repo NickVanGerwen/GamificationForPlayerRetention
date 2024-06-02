@@ -18,8 +18,8 @@ intro and definition !!!!!!!!!!!!!!!!!
 
 ### Analytics & Observations
 - [High and low retention games](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/HighAndLowRetentionAnalytics.md)
-- [Party games]()
-- [Vanilla's games]()
+- [Party games](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/PartyGamesAnalysis.md)
+- [Vanilla's games](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/VanillaAnalysis.md)
 
 ## Example prototypes
 To make the application of gamification techniques in Vanilla's context more tangeable, I prepared prototypes of daily quests, XP levels, and luck systems. These examples demonstrate how such features can integrate  with Vanilla's style while retaining their benefits to player retention and engagement.
