@@ -25,8 +25,8 @@ To learn which gamification techniques are suitable for Vanilla, we analysed thr
 ## Example prototypes
 To make the application of gamification techniques in Vanilla's context more tangeable, I prepared prototypes of daily quests, XP levels, and luck systems. These examples demonstrate how such features can integrate  with Vanilla's style while retaining their benefits to player retention and engagement.
 
-These prototypes are substantiated using the [MDA framework] !!!!!!!!!!!!!!!!!!!
-- [Daily quests]()
+These prototypes are substantiated using the [MDA framework](https://en.wikipedia.org/wiki/MDA_framework)
+- [Daily quests](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/DailyQuests.md)
 - [XP levels]()
 - [luck systems]()
 
