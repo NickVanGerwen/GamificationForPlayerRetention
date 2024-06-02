@@ -1,5 +1,5 @@
 # Party games analysis
-! intro
+Before implementing gamification mechanics within Vanilla, let's examine how the competitive landscape already utilizes gamification. This analysis delves into gamification strategies within party games to discern effective practices and uncover potential opportunities for enhancement. By understanding what works well in similar contexts, Vanilla can make informed decisions to optimize player engagement and retention.
 
 ## Games
 I looked at the following apps;
