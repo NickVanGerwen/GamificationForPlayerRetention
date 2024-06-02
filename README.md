@@ -19,9 +19,9 @@ Before diving into potential solutions, it's essential to first grasp the curren
 intro and definition
 
 ### Analytics & Observations
-- [Comparison of high and low retention games]
-- [Party games]
-- [Vanilla's games]
+- [High and low retention games]()
+- [Party games]()
+- [Vanilla's games]()
 
 ## Example prototypes
 To make the application of gamification techniques in Vanilla's context more tangeable, I prepared prototypes of daily quests, XP levels, and luck systems. These examples demonstrate how such features can integrate  with Vanilla's style while retaining their benefits to player retention and engagement.
