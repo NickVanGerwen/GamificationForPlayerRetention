@@ -1,4 +1,5 @@
-# Player Retemtion Information
+# Player Retemtion
+Explore the essentials of player retention, including key metrics, calculation methods, influencing factors, and relevant scientific models.
 ## Metrics
 While there are many ways retention can be measured and used, in the mobile market the most common use case is measuring the amount of new users returning after day 1, 3, 7, 14, 30, and 180.
 
