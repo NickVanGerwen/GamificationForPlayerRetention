@@ -14,9 +14,10 @@ Before exploring solutions, it's crucial to understand the current state of play
 [Player Retention Analytics & Observations](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/PlayerRetentionAnalytics.md)
 
 ## Gamification
-intro and definition !!!!!!!!!!!!!!!!!
-
+Gamification, as defined by Yu Kai Chou, is "the craft of deriving fun and engaging elements typically found in games and applying them to other contexts." This approach leverages game-like mechanics to enhance user engagement and motivation across various domains, making tasks more enjoyable and compelling. 
+ 
 ### Analytics & Observations
+To learn which gamification techniques are suitable for Vanilla, we analysed three different contexts;
 - [High and low retention games](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/HighAndLowRetentionAnalytics.md)
 - [Party games](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/PartyGamesAnalysis.md)
 - [Vanilla's games](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/VanillaAnalysis.md)
