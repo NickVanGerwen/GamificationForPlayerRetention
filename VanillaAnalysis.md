@@ -1,5 +1,5 @@
 # Vanilla's games analysis
-Prior to implementing gamification mechanics, it's essential to analyze Vanilla's own games. This examination aims to identify successful elements and areas for improvement. By understanding how Vanilla applies gamification, we can make informed decisions to optimize the gaming experience and enhance player retention.
+Prior to implementing gamification mechanics, we will analyse Vanilla's own games. This examination aims to identify successful elements and areas for improvement. By understanding how Vanilla applies gamification, we can make informed decisions to optimize the gaming experience and enhance player retention.
 
 ## Games
 I looked at the following apps;
