@@ -46,3 +46,36 @@ And the following ten games with D30 retention rates ranging from 1.83% - 2.53% 
 9. There is only one true luck-based mechanic in the low retention games. These are a good option for potentially boosting player retention.
 10. Lives and energy are commonly used in high retention games while being used only once in the selected low retention games. This indicates they could boost retention.
 11. Five of the low retention games have many ads in them, to the point where you spend more time looking at ads than playing the game. This likely contributes to the low retention rates. Although, this monetization strategy was possibly implemented as a last ditch effort to make money after the game was already failing.
+
+## Conclusion
+This approach relies on the assumption that retention of the games is related to the gamification techniques applied. While there was an attempt to remove variables by sticking exclusively to mobile puzzle games, there are many factors which likely had an impact on the retention rates, ex. monetization strategy, advertising, implementation of gamification mechanics, core gameplay, replayability. 
+
+Even still, this analysis did provides us with a list of gamification techniques that are likely to increase retention rates;
+
+### Temporal mechanics
+- Daily / weekly rewards
+- Daily / weekly quests
+- Lives / energy
+### Social mechanics
+- Leaderboards
+- Teams
+- Friends 
+- Gifts
+### Progression mechanics
+- Quests
+- Worlds
+- Simplified town building
+### Ownership mechanics
+- Customisation
+- Collections 
+### Luck-based mechanics
+- Loot chests
+- Random rewards
+- Spin a wheel
+- Chance for minigames
+### Resources mechanics 
+- Gems
+- Coins 
+### Accomplishment mechanics
+- Achievements
+
