@@ -17,7 +17,7 @@ Before diving into potential solutions, it's essential to first grasp the curren
 intro and definition !!!!!!!!!!!!!!!!!
 
 ### Analytics & Observations
-- [High and low retention games]()
+- [High and low retention games](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/HighAndLowRetentionAnalytics.md)
 - [Party games]()
 - [Vanilla's games]()
 
