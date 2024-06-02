@@ -13,10 +13,8 @@ Before diving into potential solutions, it's essential to first grasp the curren
 
 [Player Retention Analytics & Observations](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/PlayerRetentionAnalytics.md)
 
-
-
 ## Gamification
-intro and definition
+intro and definition !!!!!!!!!!!!!!!!!
 
 ### Analytics & Observations
 - [High and low retention games]()
@@ -26,7 +24,7 @@ intro and definition
 ## Example prototypes
 To make the application of gamification techniques in Vanilla's context more tangeable, I prepared prototypes of daily quests, XP levels, and luck systems. These examples demonstrate how such features can integrate  with Vanilla's style while retaining their benefits to player retention and engagement.
 
-Theseprototypes are substantiated using the [MDA framework]
+These prototypes are substantiated using the [MDA framework] !!!!!!!!!!!!!!!!!!!
 - [Daily quests]()
 - [XP levels]()
 - [luck systems]()
