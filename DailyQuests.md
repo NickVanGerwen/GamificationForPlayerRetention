@@ -40,6 +40,6 @@ By making daily quest rewards variable, players will feel the urge to check dail
 By making high value quests an uncommon occurrence, with a variable interval, players are incentivized to open the app to check for high value quests(fomo). 
 
 ## Aesthetics
-###Challenge
+### Challenge
 Players are given challenges to overcome, serving as a motivating factor to engage with the game and various mechanics. 
 
