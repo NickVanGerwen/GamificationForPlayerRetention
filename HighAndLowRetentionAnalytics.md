@@ -2,26 +2,29 @@
 This analysis aimed to evaluate the effectiveness of gamification techniques in boosting player retention for Vanilla. Due to the absence of specific data, the study focused on puzzle genre mobile games with over 25k downloads in the last two months. By dissecting games with high and low day 30 retention rates, the aim was to identify and compare gamification strategies that influenced player engagement and longevity.
 
 ## Games
-I looked at the following apps;
-| game                               | developer            |
-|------------------------------------|----------------------|
-| Truth or Dare Party Game Dirty     | Kristian Markovic    |
-| Never Have I Ever Dirty &amp; Evil | Kristian Markovic    |
-| Would You Rather? Dirty Adult      | Kristian Markovic    |
-| Most Likely To ___                 | Kristian Markovic    |
-| Charades: Family Games Night       | Kristian Markovic    |
-| Never have I ever (¬‿¬             | GreenTomatoMedia     |
-| Spin the Bottle! Truth or Dare     | GreenTomatoMedia     |
-| Would You Rather?                  | DH3 Games            |
-| Would You Rather Choose            | KDR Games            |
-| Would u Rather? Party Game         | LazyTrunk            |
-| Would You Rather ?                 | Pblu                 |
-| Exposed - Play with friends        | VYS Games            |
-| Truth or Dare Game - Party App     | Chouic               |
-| Spiky - Truth or Dare Game         | Chouic               |
-| Truth or Dare                      | nixGames             |
-| Truth or Dare - Dirty              | Nijo Software        |
-| Boomit Party                       | SmartID Technologies |
+I analysed the following 10 games with D30 retention rates ranging from 21.55% - 27.67% from highest to lowest;
+- Block Puzzle Legend
+- Coin Master
+- Mahjong 3
+- Family Island™ — Farming game
+- Harry Potter: Puzzles & Spells
+- Love & Pies - Merge Mystery
+- Block Puzzle
+- Homescapes
+- Jigsawscapes® - Jigsaw Puzzles
+- Hay Day
+
+And the following ten games with D30 retention rates ranging from 1.83% - 2.53% from lowest to highest;
+- Hero Clash: Playtime Go
+- Teacher Simulator: School Days
+- Camo Sniper
+- Help Me: Tricky Story
+- Cube Solver
+- Impossible Date 2: Fun Riddle
+- Cashier 3D
+- Epic War-Unlock Screws
+- Super Slime - Black Hole Game
+- Cooking Live - Cooking games
 
 ## Categories
 To organise the mechanics I make use of seven categories; temporal, social, progression, ownership, luck, resources, and accomplishments. Learn more about them here: [Gamification categories](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/GamificationCategories.md)
