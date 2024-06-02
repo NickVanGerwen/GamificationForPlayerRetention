@@ -27,6 +27,9 @@ And the following ten games with D30 retention rates ranging from 1.83% - 2.53% 
 - Super Slime - Black Hole Game
 - Cooking Live - Cooking games
 
+## Categories
+To organise the mechanics I make use of seven categories; temporal, social, progression, ownership, luck, resources, and accomplishments. Learn more about them here [Gamification categories]()
+
 ## Results
 
 | Retention | temporal                                                                                               | social                                                                                | progression                                                                                                        | ownership                                                                                    | luck                                                       | resources                                                          | accomplishments                                      |
