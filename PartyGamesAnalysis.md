@@ -42,3 +42,8 @@ To organise the mechanics I make use of seven categories; temporal, social, prog
 7. Two games implemented a choose your own card mechanic, which shows multiple cards face-down, and let you choose a card, which then shows a statement or question. This builds on the real-life aspects of party games, while it doesn’t functionally chance the outcome, it increases the feeling of luck and player choice.
 8. Games by GreenTomatoMedia implemented some unique luck based mechanics; when spinning a wheel to choose which player goes next there is a chance for a waiter to spin the bottle one further after it stopped. Another is a chance to get a card from a premium deck, this makes the player feel lucky, while giving the player a reminder of the premium content.
 9. Game modifiers came in the form of additional rules during the game (ex. ‘Don’t touch the table’, or ‘end every sentence with “duhhh”’). These serve as a form of dynamic gameplay, allowing for variety without the need to implement complicated mechanics.
+10. 
+
+---
+[Return to main page](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/README.md)
+
