@@ -81,3 +81,6 @@ Even still, this analysis did provides us with a list of gamification techniques
 ### Accomplishment mechanics
 - Achievements
 
+
+---
+[Return to main page](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/README.md)
