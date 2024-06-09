@@ -32,7 +32,28 @@ Since AppsFlyer also collected data on the operating system of the players, we c
 
 ## Vanilla
 ### Vanilla and average party game
-[vanilla and average party game player retention metrics]()
+[vanilla and average party game player retention metrics](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/player%20retention%20charts/Vanilla%20and%20party%20games.png)
+<br />
+It turns out that Vanilla’s retention metrics are far below both the average retention for party games in the mobile gaming market. 
+
+For example, Vanilla’s Spin the Bottle’s retention on D1 is only 30.3% of the average retention for party games, and it drops down to 3.0% of the average after 30 days. 
+
+The metrics may not be accurate as the retention from google analytics only goes up to one decimal point. This could make a significant difference. For example, on D30 a change from 0.2 to 0.3 would be an increase of 50%, resulting in 4.5% of the average party game retention.
+
+Even with this inaccuracy taken into account, it is clear that Vanilla’s Apps underperform the market significantly. 
+
+### Vanilla over 30 days
+[vanilla games player retention over 30 days](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/player%20retention%20charts/Vanilla%20games.png)
+<br />
+This shows the retention of Vanilla’s five most used apps over 40 days. It shows they are mostly in line with each other. Even showcasing similar ‘peaks’, indicated by the red arrows. This is attributed to the fact that Vanilla’s party games are often played on weekends, and thus are more likely to be opened six or seven days later. This is followed by a falloff in retention, presumably due to the start of the workweek.
+
+This fact can be taken into consideration when making design decisions; like using weekly streaks instead of daily streaks, or creating content related to the weekend.
+
+
+
+
+
+
 
 
 ---
