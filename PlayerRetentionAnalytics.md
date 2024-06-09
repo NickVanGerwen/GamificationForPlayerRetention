@@ -13,7 +13,7 @@ The decline indicates players are more likely to stop using an app as time goes 
 ![gaming and non-gaming](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/player%20retention%20charts/Gaming%20vs%20non-gaming.png)
 <br />
 The gaming categories have a player retention D1 average of 31.46%. The non-gaming categories have a D1 average user retention rate of 24.71%. This means gaming’s D1 average is 27.3%  higher than that of non-gaming. However, D14 and D30 retention rates show that non-gaming overtakes gaming in later benchmarks.
- 
+
 This may be because gaming apps often exclusively offer entertainment, increasing the likelihood of users trying out multiple apps until they find one they enjoy for longer. On the other hand, non-gaming apps offer functionality they might rely on, and thus, users return to them regularly.
 
 
