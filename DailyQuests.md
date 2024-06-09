@@ -43,3 +43,7 @@ By making high value quests an uncommon occurrence, with a variable interval, pl
 ### Challenge
 Players are given challenges to overcome, serving as a motivating factor to engage with the game and various mechanics. 
 
+
+---
+[Return to main page](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/README.md)
+
