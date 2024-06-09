@@ -1,8 +1,6 @@
 # Gamification for increased Player Retention
 This central hub is dedicated to insights from Nick van Gerwen's research project on gamification and its impact on player retention. Designed specifically for Vanilla's development team, this platform aims to help you recognize gamification opportunities, identify potential improvements, and make informed design choices to enhance player retention.
 
-![alt text](https://www.jonathan-petitcolas.com/img/posts/ascii-art-converter/homer.png)
-
 ## Player Retention
 Player retention is a crucial metric and benchmark in game development. It is assessed by tracking first-time users and calculating the percentage of those users who return to the app within a specified time frame. Understanding and optimizing this metric is essential for ensuring sustained engagement and long-term success in the highly competitive gaming industry.
 
