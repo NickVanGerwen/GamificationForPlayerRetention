@@ -49,12 +49,5 @@ This shows the retention of Vanilla’s five most used apps over 40 days. It sho
 
 This fact can be taken into consideration when making design decisions; like using weekly streaks instead of daily streaks, or creating content related to the weekend.
 
-
-
-
-
-
-
-
 ---
-[Return to main page](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/README.md#analytics--observations)
+[Return to main page](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/README.md)
