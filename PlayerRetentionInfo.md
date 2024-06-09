@@ -46,3 +46,8 @@ This model, by B.J. Fogg, states that for a behaviour to happen, three factors m
 - Trigger, prompt the action
 
 Triggers are most effective when both motivation and ability are high.
+
+
+---
+[Return to main page](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/README.md)
+
