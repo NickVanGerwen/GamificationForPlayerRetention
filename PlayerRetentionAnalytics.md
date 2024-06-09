@@ -26,13 +26,13 @@ The gaming categories have a player retention D1 average of 31.46%. The non-gami
 This may be because gaming apps often exclusively offer entertainment, increasing the likelihood of users trying out multiple apps until they find one they enjoy for longer. On the other hand, non-gaming apps offer functionality they might rely on, and thus, users return to them regularly.
 
 ### Android vs IOS
-~[Android vs IOS player retention metrics](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/player%20retention%20charts/Android%20and%20IOS.png)
+![Android vs IOS player retention metrics](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/player%20retention%20charts/Android%20and%20IOS.png)
 <br />
 Since AppsFlyer also collected data on the operating system of the players, we can compare how player retention differs between them. You will notice that IOS clearly has higher average retention rates than Android, indicating higher brand loyalty.
 
 ## Vanilla
 ### Vanilla and average party game
-[vanilla and average party game player retention metrics](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/player%20retention%20charts/Vanilla%20and%20party%20games.png)
+![vanilla and average party game player retention metrics](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/player%20retention%20charts/Vanilla%20and%20party%20games.png)
 <br />
 It turns out that Vanilla’s retention metrics are far below both the average retention for party games in the mobile gaming market. 
 
@@ -43,7 +43,7 @@ The metrics may not be accurate as the retention from google analytics only goes
 Even with this inaccuracy taken into account, it is clear that Vanilla’s Apps underperform the market significantly. 
 
 ### Vanilla over 30 days
-[vanilla games player retention over 30 days](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/player%20retention%20charts/Vanilla%20games.png)
+![vanilla games player retention over 30 days](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/player%20retention%20charts/Vanilla%20games.png)
 <br />
 This shows the retention of Vanilla’s five most used apps over 40 days. It shows they are mostly in line with each other. Even showcasing similar ‘peaks’, indicated by the red arrows. This is attributed to the fact that Vanilla’s party games are often played on weekends, and thus are more likely to be opened six or seven days later. This is followed by a falloff in retention, presumably due to the start of the workweek.
 
