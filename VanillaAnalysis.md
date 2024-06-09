@@ -61,3 +61,6 @@ Using the observations I can formulate a list condensing Vanilla’s approach to
 - Highlighting luck-based mechanics
 - Temporal mechanics
 
+
+---
+[Return to main page](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/README.md)
