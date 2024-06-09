@@ -1,4 +1,5 @@
 # Player retention analytics and observations
+Before diving into how gamification can boost player retention in Vanilla's games, let's explore some related data. By using [AppsFlyer's daily app retention benchmarks](https://www.appsflyer.com/resources/reports/app-retention-benchmarks/#daily-app-retention-benchmarks) we can find identify opportunities and areas for improvement.
 
 ## Mobile gaming market
 
