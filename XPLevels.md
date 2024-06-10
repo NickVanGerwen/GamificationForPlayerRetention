@@ -13,6 +13,8 @@
   - Room notifications: Players are notified when others in the same room level up.
 
 <img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelOnHome.png" alt="drawing" width="200"/>
+
+
 ![img](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelOnHome.png)
 
 ## Dynamics
