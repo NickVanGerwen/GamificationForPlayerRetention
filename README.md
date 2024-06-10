@@ -26,6 +26,7 @@ To make the application of gamification techniques in Vanilla's context more tan
 These prototypes are substantiated using the [MDA framework](https://en.wikipedia.org/wiki/MDA_framework)
 - [Daily quests](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/DailyQuests.md)
 - [XP levels](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/XPLevels.md)
-- [luck systems]()
+<!--- - [luck systems]() -->
 
 ## Recommendation
+not added yet
