@@ -43,7 +43,7 @@ Players are given challenges to overcome, serving as a motivating factor to enga
 
 ![Daily quets menu](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/daily%20quests%20menu.png)
 ![Daily quest popup](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/quest.gif)
-
+![Daily quest celebration](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/quest2.gif)
 
 ---
 [Return to main page](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/README.md)
