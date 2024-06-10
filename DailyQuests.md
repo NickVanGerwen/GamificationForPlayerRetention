@@ -42,8 +42,7 @@ By making high value quests an uncommon occurrence, with a variable interval, pl
 Players are given challenges to overcome, serving as a motivating factor to engage with the game and various mechanics. 
 
 ![Daily quets menu](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/daily%20quests%20menu.png)
-
-
+![Daily quest popup](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/quest.gif)
 
 
 ---
