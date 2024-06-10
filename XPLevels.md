@@ -19,6 +19,8 @@
 - **Compulsion loop:** Players near a level-up are motivated to play "just one more game" or complete additional quests to gain the necessary XP. This creates a loop where players are continually engaged.
 - **Reward anticipation:** The anticipation of reaching the next level and unlocking new rewards encourages extended play sessions.
 
+<img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelUpScreen.png" alt="level up" width="300"/>
+<img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelUpScreenWithUnlocks.png" alt="level up with unlocks" width="300"/>
 
 
 ### Competitive drive
