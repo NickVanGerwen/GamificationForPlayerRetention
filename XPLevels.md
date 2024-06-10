@@ -12,6 +12,9 @@
   - Achievement graphics: When players level up, a celebratory graphic is displayed, featuring vibrant animations and sound effects.
   - Room notifications: Players are notified when others in the same room level up.
 
+<img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelOnHome.png" alt="drawing" width="200"/>
+![img](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelOnHome.png)
+
 ## Dynamics
 ### One more game
 - **Compulsion loop:** Players near a level-up are motivated to play "just one more game" or complete additional quests to gain the necessary XP. This creates a loop where players are continually engaged.
@@ -37,3 +40,6 @@ High-level players receive special titles or badges that are visible to others, 
 Visual and auditory feedback: Levelling up is marked by elaborate visuals and sounds, such as fireworks, fanfares, and congratulatory messages. This sensory feedback enhances the emotional impact of the achievement.
 ### Discovery
 Surprise unlocks: By limiting the player's knowledge of what they will unlock at specific levels, they will experience a sense of curiosity, and eventually, discovery. This can be enhanced by emphasising unlocks with sensation. 
+
+---
+[Return to main page](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/README.md)
