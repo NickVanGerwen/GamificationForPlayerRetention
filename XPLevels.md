@@ -12,19 +12,21 @@
   - Achievement graphics: When players level up, a celebratory graphic is displayed, featuring vibrant animations and sound effects.
   - Room notifications: Players are notified when others in the same room level up.
 
-<img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelOnHome.png" alt="drawing" width="200"/>
 
-
-![img](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelOnHome.png)
 
 ## Dynamics
 ### One more game
 - **Compulsion loop:** Players near a level-up are motivated to play "just one more game" or complete additional quests to gain the necessary XP. This creates a loop where players are continually engaged.
 - **Reward anticipation:** The anticipation of reaching the next level and unlocking new rewards encourages extended play sessions.
 
+
+
 ### Competitive drive
 - **Social comparison:** Players can compare their XP levels with friends and other players. This comparison drives them to invest more time and effort into gaining XP.
 - **Public recognition:** Seeing other players level up in real-time acts as a motivator, pushing players to keep up or surpass their peers.
+
+<img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelOnHome.png" alt="xo levels on home" width="300"/>
+<img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelUpInLobby.png" alt="level up in lobby" width="300"/>
 
 ### Big groups
 - **Group XP boost:** By increasing the XP reward linearly to the amount of players, they are incentivized to gather more people to play with them, leading to more instals. 
@@ -32,6 +34,8 @@
 
 ### Bragging rights
 High-level players receive special titles or badges that are visible to others, providing a status symbol and motivating players to strive for these recognitions.
+
+<img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/xp%20levels/LevelsInLobby.png" alt="xp levels in lobby" width="300"/>
 
 ## Aesthetics
 ### Challenge
