@@ -24,7 +24,7 @@ Players who have the motivation and ability to play, may be looking for a trigge
 ### Variable Interval Schedule
 By making high value quests an uncommon occurrence, with a variable interval, players are incentivized to open the app to check for high value quests(fomo). 
 
-![Daily quets menu](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/daily%20quests%20menu.png)
+<img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/daily%20quests%20menu.png" alt="level up" width="300"/>
 
 ### Variable rewards
 By making daily quest rewards variable, players will feel the urge to check daily, to see if specific quests are worth doing for their high reward(fomo). 
@@ -32,9 +32,7 @@ By making daily quest rewards variable, players will feel the urge to check dail
 ### Player choice
 By providing multiple quests with no completion order, players are incentivized to choose a quest to focus on. This makes the player feel in control of their own goals, giving the completion of the goal more impact. 
 
-
-![Daily quest celebration](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/quest2.gif)
-
+<img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/quest2.gif" alt="level up" width="300"/>
 
 ### Satisfaction of competence
 Completing challenges will make players feel good about themselves because they were able to complete them. This is paired with the actual reward, which makes it feel even more rewarding.
@@ -42,8 +40,7 @@ Completing challenges will make players feel good about themselves because they 
 ### Value of gameplay
 The quests are often tasks that players would do regardless when they are playing the game(example: play x rounds, vote x times). By presenting regular gameplay as goals with tangible rewards, their gameplay feels more valuable. 
 
-![Daily quest popup](https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/quest.gif)
-
+<img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/quest.gif" alt="daily quest popup" width="300"/>
 
 ### Offer direction
 Clearly defined goals (and their potential rewards) should guide players into a way of playing, like playing a certain category or inviting a big group of friends to play for a “play with x friends” quest.
