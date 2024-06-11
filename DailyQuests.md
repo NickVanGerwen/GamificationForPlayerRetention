@@ -42,7 +42,7 @@ One obstacle before playing the game is opening the app. Because quests can have
 ### Trigger play
 Players who have the motivation and ability to play, may be looking for a trigger to act on(Nir Eyal’s Hook model). A daily quest can serve as the motivating factor to start a game.
 
-### Variable Interval Schedule
+### Variable interval schedule
 By making high value quests an uncommon occurrence, with a variable interval, players are incentivized to open the app to check for high value quests(fomo). 
 
 <img src="https://github.com/NickVanGerwen/GamificationForPlayerRetention/blob/Readme/daily%20quests/daily%20quests%20menu.png" alt="level up" width="300"/>
