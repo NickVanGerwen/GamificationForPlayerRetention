@@ -12,6 +12,27 @@
 ### Sunk cost fallacy
 As a result of increasing difficulty in daily quests, players will make progress in all of their quests while attempting to complete just one quest. This makes players more invested in completing the remaining quests because they have already made some progress, which would otherwise go to waste.
 
+```
+        // set seed as current day
+        Random.InitState(System.DateTime.Now.Day);
+
+        // hard quest
+        int randomIndex3 = Random.Range(0, hardQuests.Count);
+        dailyQuests.Add(hardQuests[randomIndex3]);
+
+        // medium quest
+        int randomIndex2 = Random.Range(0, mediumQuests.Count);
+        dailyQuests.Add(mediumQuests[randomIndex2]);
+
+        // easy quest
+        int randomIndex = Random.Range(0, easyQuests.Count);
+        dailyQuests.Add(easyQuests[randomIndex]);
+
+        // reset progress
+        SetDailyQuestProgress();
+```
+
+
 ### FOMO
 By making the quests only temporarily available, players will experience the fear of missing out(fomo). This will incentivize players to check and attempt to complete the quests every day to get the rewards they would otherwise miss out on. 
 
