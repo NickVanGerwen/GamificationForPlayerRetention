@@ -1,4 +1,4 @@
-# XP Levels
+# XP levels
 ## Mechanics
 - Earning XP
   - Daily quests: Players complete specific tasks each day to earn XP.
